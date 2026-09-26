@@ -17,7 +17,7 @@
 
   <br />
 
-  [Live Demo](https://krishiai.mohitsuthar.me/) &nbsp;&bull;&nbsp; [Features](#-features) &nbsp;&bull;&nbsp; [Quick Start](#-quick-start) &nbsp;&bull;&nbsp; [API Reference](#-api-endpoints) &nbsp;&bull;&nbsp; [Contributing](#-contributing)
+  [Live Demo](https://krishi-ai.pages.dev/) &nbsp;&bull;&nbsp; [Features](#-features) &nbsp;&bull;&nbsp; [Quick Start](#-quick-start) &nbsp;&bull;&nbsp; [API Reference](#-api-endpoints) &nbsp;&bull;&nbsp; [Contributing](#-contributing)
 
   <br />
 </div>
