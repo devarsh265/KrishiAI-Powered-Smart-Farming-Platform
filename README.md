@@ -36,11 +36,9 @@
 
 | Service | URL |
 |:--------|:----|
-| Frontend | [krishiai.mohitsuthar.me](https://krishiai.mohitsuthar.me/) |
+| Frontend | [krishiai.mohitsuthar.me](https://krishi-ai.pages.dev/) |
 | Frontend (Mirror) | [krishi-ai.pages.dev](https://krishi-ai.pages.dev/) |
 | Backend API | [krishi-ai-orcin.vercel.app](https://krishi-ai-orcin.vercel.app/) |
-| ML Model API | [mohitsuthar-krishiai-ml.hf.space](https://mohitsuthar-krishiai-ml.hf.space/) |
-| Our ML Model on Hugging Face | [huggingface.co/spaces/mohitsuthar/krishiai-ml](https://huggingface.co/spaces/mohitsuthar/krishiai-ml) |
 
 ---
 
