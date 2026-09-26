@@ -36,7 +36,7 @@
 
 | Service | URL |
 |:--------|:----|
-| Frontend | [krishiai.mohitsuthar.me](https://krishi-ai.pages.dev/) |
+| Frontend | [krishiAI](https://krishi-ai.pages.dev/) |
 | Frontend (Mirror) | [krishi-ai.pages.dev](https://krishi-ai.pages.dev/) |
 | Backend API | [krishi-ai-orcin.vercel.app](https://krishi-ai-orcin.vercel.app/) |
 
